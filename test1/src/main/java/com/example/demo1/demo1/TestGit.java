@@ -10,5 +10,11 @@ package com.example.demo1.demo1;
 public class TestGit {
     public static void main(String[] args) {
         System.out.println("这是我的");
+        System.out.println("3242422424242");System.out.println("这是我的");
+        System.out.println("3242422424242");System.out.println("这是我的");
+        System.out.println("3242422424242");System.out.println("这是我的");
+        System.out.println("3242422424242");System.out.println("这是我的");
+        System.out.println("3242422424242");System.out.println("这是我的");
+        System.out.println("3242422424242");
     }
 }
